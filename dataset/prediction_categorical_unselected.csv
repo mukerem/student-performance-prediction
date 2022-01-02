@@ -1,0 +1,101 @@
+Sex,Age,Address,Pstatus,Medu,Fedu,Mjob,Fjob,studytime,Activities,Health,peer,Region,Mathematics,Physics,Chemistry,Biology,English,Civics,Aptitude,Chem,Communication,Physics1,Maths1,Python,CivicsEthical,Maths2,Physics2,CPP,Writing,Drawing,Logic,Department,first_gpa,second_gpa,Performance
+Male,Medium,Urban,together,Prep,University,other,teacher,0,Yes,Yes,Fair,Addis Ababa,F,F,C,A,A,B,A,B+,A,B+,C-,A-,B-,C-,C-,A,A,A+,A-,CSE,B,B,Very good
+Male,Medium,Urban,divorced,University,University,other,services,1,Yes,Yes,Good,SNNP,D,D,C,C,D,B,B,B+,B+,A-,B+,A+,B,B-,B+,A+,B+,C+,B-,CSE,A,B,Very good
+Male,Medium,Urban,divorced,University,University,services,other,1,Yes,Yes,Fair,Addis Ababa,D,C,B,B,A,B,A,B,A+,A,B-,A+,B,C,B-,A+,A,A,B,CSE,B,B,Very good
+Male,Medium,Urban,divorced,University,Prep,other,other,0,Yes,Yes,Excellent,Addis Ababa,E,B,C,B,B,A,A,C+,A+,C,C,B,A-,C,C+,A+,B+,A-,B+,CSE,C,B,Good
+Male,Medium,Urban,together,Elementary,Prep,other,other,1,Yes,Yes,Good,Addis Ababa,C,D,C,B,D,A,C,B,A-,C,B-,A-,B,C-,B,A+,A+,A+,B,CSE,B,B,Very good
+Male,Medium,Urban,together,Prep,Prep,other,other,0,Yes,Yes,Excellent,Addis Ababa,D,C,B,B,B,C,A,C+,A,D,C,A+,B-,C+,C+,B+,A-,B+,B+,CSE,C,B,Good
+Male,Medium,Rural,together,University,University,teacher,teacher,4,Yes,Yes,Good,Oromia,C,D,B,A,C,A,B,B-,B+,B-,B,A-,B,B,B-,A-,B+,A+,B+,CSE,B,B,Very good
+Female,Medium,Rural,divorced,University,High School,other,other,2,Yes,Yes,Excellent,Addis Ababa,E,E,C,C,C,B,A,B+,B-,B-,C,B,C,C,C,A-,B+,A-,B,CSE,C,C,Good
+Male,Medium,Rural,together,University,University,teacher,teacher,2,No,Yes,Good,Oromia,C,D,C,B,D,A,C,A+,C+,B+,A-,A,A-,C+,B+,A,C+,A,A,CSE,A,B,Very good
+Male,Medium,Urban,together,Elementary,None,home,other,2,Yes,Yes,Good,Afar,C,D,C,B,E,A,C,B,B,A-,A,A+,B+,B-,C+,A-,B+,A-,B+,CSE,A,B,Very good
+Male,Medium,Urban,divorced,Prep,University,other,other,0,Yes,Yes,Good,SNNP,D,E,C,A,D,A,B,B,A,B-,C+,A,B,C,C,B-,A+,B+,B+,CSE,B,C,Very good
+Male,Medium,Urban,divorced,University,University,teacher,other,0,Yes,Yes,Excellent,Amhara,D,D,B,B,A,A,B,A-,A,B,C,A-,C,D,C-,A+,A-,A+,B,CSE,B,C,Good
+Male,Medium,Urban,together,High School,Elementary,home,other,0,Yes,Yes,Fair,Amhara,E,D,C,B,C,A,B,A-,A,C+,B+,B-,B,A-,B-,B+,C+,B-,B+,CSE,B,B,Very good
+Male,Medium,Rural,together,Elementary,University,home,teacher,2,Yes,Yes,Good,Oromia,C,E,B,B,B,B,C,B+,A-,C+,B+,A+,B,B,C,A+,B+,A+,B+,CSE,B,B,Very good
+Male,Medium,Urban,together,Prep,University,home,other,0,Yes,Yes,Good,Oromia,E,D,A,A,A,C,B,B+,A+,C-,C-,B+,C,C,D,B+,A-,B+,B+,CSE,C,C,Good
+Female,Medium,Urban,together,Elementary,Elementary,home,other,0,Yes,Yes,Good,Oromia,C,E,B,A,C,C,E,B,B,A,A-,B,B,A+,C,A+,A-,C,B-,ECE,B,B,Very good
+Male,Medium,Urban,together,University,University,teacher,services,2,Yes,Yes,Good,Amhara,B,C,A,A,B,A,A,A-,B+,B-,A-,B+,A,A-,B,B+,B+,A-,A,CSE,A,A,Excellent
+Female,Medium,Urban,together,University,University,other,other,4,Yes,Yes,Fair,Addis Ababa,E,C,D,D,C,A,A,B,A,B-,C+,B+,B-,B+,C-,B-,A+,A+,A-,CSE,B,B,Very good
+Male,Medium,Rural,together,Prep,University,other,other,0,Yes,Yes,Good,Oromia,E,E,C,A,B,A,B,B,B+,C,C,B,B+,D,C-,B,A-,A+,B,CSE,C,C,Good
+Male,Medium,Urban,divorced,University,Prep,other,other,4,Yes,Yes,Good,SNNP,D,E,B,A,B,A,B,B+,B+,C-,C-,C+,B+,C,C,A-,B,B,C,Civil,C,C,Good
+Male,Medium,Urban,together,University,University,services,teacher,3,Yes,Yes,Excellent,SNNP,D,E,B,A,D,A,C,B+,A,A,B+,B+,B-,A,A,A+,A,B+,A-,ECE,A,A,Excellent
+Male,Medium,Urban,together,University,University,services,teacher,3,Yes,Yes,Excellent,SNNP,D,E,B,A,D,A,C,B+,A,A,B+,B+,B-,A,A,A+,A,B+,A-,ECE,A,A,Excellent
+Male,Medium,Urban,together,Elementary,University,home,teacher,4,Yes,Yes,Excellent,Amhara,E,F,C,A,C,A,C,C,B+,C,B+,B+,A-,B,B,A,B+,B,B+,ECE,B,B,Very good
+Male,Medium,Rural,together,Primary,None,other,other,0,Yes,Yes,Good,Oromia,D,E,B,B,C,A,E,B-,B-,B-,B,B+,B+,B+,B,A-,B,C,A+,ECE,B,B,Very good
+Male,Medium,Urban,together,Prep,Prep,home,other,0,Yes,Yes,Good,SNNP,C,E,D,A,D,A,C,B,B,B,A-,B,A-,C-,C-,B,C+,A,C+,Civil,B,C,Good
+Male,Medium,Urban,together,University,Elementary,home,other,1,Yes,Yes,Good,Addis Ababa,D,E,D,C,B,A,A,C+,B-,C+,C,A-,B+,C,C,A-,A-,A,B+,CSE,C,B,Good
+Male,Medium,Rural,together,University,University,teacher,services,1,Yes,Yes,Good,Amhara,C,D,A,B,E,B,B,A-,B-,C+,B-,B+,B,B,C+,B+,B-,A+,B,CSE,B,B,Very good
+Male,Medium,Urban,together,University,University,other,other,0,Yes,Yes,Good,Addis Ababa,E,D,C,A,A,B,A,B,A,C+,D,A+,B,F,C,A+,A-,B+,C,CSE,C,D,Good
+Male,Medium,Urban,apart,University,University,services,services,4,Yes,Yes,Excellent,Addis Ababa,C,C,C,A,B,A,A,B,A,A,A,A,B+,A-,B+,A,A-,B,A,CSE,A,A,Excellent
+Male,Medium,Urban,divorced,University,None,other,other,0,Yes,Yes,Poor,Amhara,A,E,C,A,E,A,A,C-,B,D,B+,B,A-,C+,B+,C+,C,B+,B+,Water,C,C,Good
+Male,Medium,Urban,together,University,University,services,other,0,Yes,Yes,Poor,Addis Ababa,B,A,A,A,A,A,A,A+,A+,A+,A+,A+,A+,A+,A+,A+,A+,A+,A+,CSE,A,A,Excellent
+Male,Medium,Urban,together,None,Prep,home,other,0,Yes,Yes,Poor,Addis Ababa,D,D,C,A,C,B,A,A+,A-,B+,A-,A+,A-,A+,A+,A+,B+,B+,B+,Mechanical,A,A,Excellent
+Male,Medium,Urban,divorced,University,Primary,teacher,other,0,Yes,Yes,Excellent,Addis Ababa,F,D,E,C,A,A,B,B-,A,C+,C-,B,B,F,C,B,A+,B+,B,ECE,C,D,Good
+Female,Medium,Urban,together,Elementary,Elementary,other,other,1,Yes,Yes,Good,Oromia,D,E,B,A,C,A,C,B-,B,B+,B,B+,B+,A,C+,A,B-,A-,B+,CSE,B,B,Very good
+Male,Medium,Rural,together,Elementary,High School,other,other,4,Yes,Yes,Good,Amhara,E,C,B,D,E,A,B,A,C+,A-,A,B+,B+,B+,A-,B+,A-,B,A-,CSE,A,A,Excellent
+Male,Above,Urban,together,University,University,teacher,teacher,1,Yes,No,Good,SNNP,D,E,A,A,F,A,B,A,B+,A+,B+,B+,A,A,A,A+,A-,A,A,Mechanical,A,A,Excellent
+Male,Medium,Rural,together,Primary,None,home,other,3,Yes,Yes,Excellent,Oromia,D,D,B,A,D,B,C,B,B,A,B+,B+,A-,A-,A,B+,B,B-,B+,EPCE,B,B,Very good
+Male,Medium,Rural,together,Elementary,Prep,home,other,2,Yes,Yes,Excellent,Amhara,B,E,C,B,C,A,D,A-,B,A+,B+,A,A,A,B,A+,A,C+,A-,EPCE,A,A,Excellent
+Male,Medium,Rural,together,High School,High School,home,other,2,No,Yes,Excellent,Oromia,C,E,B,A,B,C,C,B,B,A-,C+,C+,B+,C+,B,C+,B,C+,B+,EPCE,B,C,Good
+Male,Medium,Urban,divorced,High School,Prep,services,services,2,Yes,Yes,Good,Oromia,D,F,B,A,D,A,C,B,B+,B+,B+,A-,A-,B+,B+,B+,B+,A-,A-,EPCE,A,A,Excellent
+Female,Medium,Urban,together,None,None,home,other,1,Yes,No,Good,Amhara,C,E,C,B,E,C,B,B+,C-,C,A-,B+,B,A-,C,B+,B,B,B-,CSE,C,B,Very good
+Male,Medium,Rural,together,Prep,Prep,other,other,1,Yes,Yes,Good,Oromia,C,C,C,A,B,A,B,A-,B+,C+,C,B+,B+,B,C+,B+,B,C+,B,CSE,B,C,Good
+Female,Medium,Urban,together,University,University,other,other,0,Yes,Yes,Fair,Addis Ababa,C,D,A,A,B,A,A,B,B+,C+,C+,A,B,C+,C+,A+,B+,A+,B+,Mechanical,B,B,Very good
+Male,Medium,Urban,together,None,High School,home,other,0,Yes,Yes,Good,Addis Ababa,D,D,B,B,C,B,B,A+,A,A-,A-,A+,A,B+,C+,A+,B-,A,A,CSE,A,B,Excellent
+Male,Medium,Urban,together,Elementary,Prep,home,other,1,Yes,Yes,Good,Oromia,C,D,B,B,D,A,B,A-,B+,C+,B+,A-,B+,B+,C+,B+,B+,A,A-,Mechanical,B,B,Very good
+Female,Medium,Urban,together,Elementary,Prep,home,other,1,Yes,Yes,Fair,SNNP,C,E,B,A,D,C,B,B+,A-,C,C+,B-,B+,C+,C+,B,A-,A-,B+,Mechanical,C,B,Very good
+Male,Medium,Urban,together,Elementary,Prep,home,other,1,Yes,Yes,Excellent,SNNP,C,E,C,A,B,A,B,B,B+,C,C+,A-,B,C,C,A-,B-,A+,B,Civil,C,C,Good
+Male,Medium,Urban,together,Elementary,High School,home,other,2,Yes,Yes,Good,SNNP,D,E,B,B,C,A,C,B+,C+,C+,B,A+,B+,B,C+,A+,A-,B,A-,CSE,B,B,Very good
+Male,Medium,Urban,together,Elementary,Elementary,home,other,0,Yes,Yes,Excellent,Gambela,F,E,D,B,C,A,B,A-,B-,C+,B-,A,A-,C+,B-,A,B+,B+,A,Mechanical,B,B,Very good
+Male,Medium,Urban,together,University,Prep,other,other,0,Yes,Yes,Good,Amhara,A,B,B,A,B,A,C,B,C+,C+,B+,B-,B,B,C+,A-,C+,B+,A-,Mechanical,C,B,Very good
+Female,Medium,Urban,together,Prep,University,home,other,3,No,Yes,Good,Oromia,C,D,D,A,D,C,B,B,C+,C,C-,C+,B,C-,B,C+,B-,A+,B+,Civil,D,C,Good
+Female,Medium,Urban,together,Elementary,Prep,other,home,0,Yes,Yes,Good,Oromia,D,D,D,C,C,B,A,C+,A,C,D,C+,B-,F,F,B-,A-,A-,B,CSE,D,D,Satisfactory
+Female,Medium,Urban,together,Prep,Prep,other,other,0,Yes,Yes,Good,Addis Ababa,E,E,C,B,C,A,C,B-,B+,C-,C,B,B-,C+,C,C-,A-,A-,C,CSE,C,C,Good
+Male,Medium,Rural,together,University,University,teacher,services,0,Yes,Yes,Good,Oromia,C,E,B,A,D,C,C,B+,C+,C+,B-,B+,B+,B-,C+,C+,C,B+,B-,Mechanical,B,C,Good
+Male,Medium,Rural,together,Elementary,University,home,services,4,Yes,Yes,Excellent,Oromia,D,D,A,B,D,B,D,C,B,B-,C,B,B+,A,C,B,B,A,C+,ECE,C,B,Good
+Male,Medium,Rural,together,Elementary,University,home,services,4,Yes,Yes,Excellent,Oromia,D,D,A,B,D,B,D,C,B,B-,C,B,B+,A,C,B,B,A,C+,ECE,C,B,Good
+Male,Medium,Rural,apart,High School,University,services,services,0,Yes,Yes,Good,Amhara,C,E,C,D,D,A,B,A-,B-,C,B-,B+,B,C+,B+,C,B-,A+,B,CSE,C,C,Good
+Female,Medium,Rural,together,University,University,teacher,services,2,Yes,Yes,Excellent,Addis Ababa,B,C,A,B,A,B,B,B+,A-,B-,B,A-,B,B,B-,B-,A-,A,B-,CSE,B,B,Very good
+Male,Medium,Urban,apart,Primary,None,home,other,0,Yes,Yes,Excellent,Addis Ababa,A,D,A,B,D,C,C,A+,A-,A+,A+,A+,A,A+,A,A+,B-,A+,A+,CSE,A,A,Excellent
+Male,Medium,Urban,apart,Prep,University,other,home,0,Yes,Yes,Good,Oromia,D,E,B,A,C,B,A,B,A-,A-,A-,A,A,A-,A,A+,A,A,A-,CSE,A,A,Excellent
+Male,Medium,Rural,together,University,University,other,other,4,Yes,Yes,Excellent,Oromia,E,B,B,B,C,B,B,B-,B+,C,B-,B-,B+,C,C,C+,B,A-,B,CSE,C,C,Good
+Female,Medium,Urban,together,High School,High School,home,other,4,Yes,Yes,Good,Addis Ababa,D,D,D,C,B,A,B,A,A,C+,A-,A,B,B+,C+,B+,A,A-,B,Civil,A,B,Very good
+Male,Medium,Rural,together,None,Elementary,home,other,2,Yes,Yes,Good,Tigray,C,D,B,B,D,B,C,A-,B-,B-,B,A+,B,A-,C+,A+,B-,B,A-,CSE,B,B,Very good
+Male,Medium,Urban,apart,Elementary,Elementary,other,other,1,Yes,Yes,Fair,Amhara,D,F,B,A,A,B,C,C+,A,C+,C,A-,A-,C,B+,A+,C+,C,B+,CSE,B,C,Good
+Male,Medium,Urban,together,University,University,teacher,teacher,2,Yes,Yes,Fair,SNNP,D,D,C,A,B,A,A,B+,B,B+,A,A-,A-,C-,B,A+,A,A-,A-,CSE,A,B,Very good
+Male,Medium,Urban,together,Prep,Prep,home,other,0,Yes,Yes,Good,Addis Ababa,E,E,C,E,A,A,A,B,A-,D,D,B-,B+,D,F,B-,A-,A-,B-,Civil,D,D,Satisfactory
+Male,Medium,Urban,together,University,University,other,other,0,No,Yes,Fair,Addis Ababa,C,C,D,C,C,A,A,B+,A,C-,B,C,C+,D,C,C,B,A,B+,Architecture,C,C,Good
+Male,Medium,Urban,together,High School,Elementary,home,other,1,Yes,Yes,Good,Oromia,C,E,B,A,D,A,A,A,B+,C,B,B-,B-,B,C+,B,A-,A+,A,Civil,B,B,Very good
+Male,Above,Urban,together,High School,Prep,other,other,1,Yes,Yes,Good,Addis Ababa,C,D,C,A,C,A,C,B+,A,B+,A-,A+,A+,A-,B+,A+,A,A,A,CSE,A,A,Excellent
+Male,Medium,Urban,together,Prep,University,home,services,2,Yes,Yes,Excellent,Oromia,D,C,B,A,A,B,C,C+,A,B,B+,A+,B+,A-,A+,A+,A-,A+,A-,CSE,B,A,Excellent
+Male,Medium,Urban,apart,University,University,teacher,teacher,1,Yes,Yes,Good,Oromia,C,C,A,B,D,A,B,A+,B-,B+,A-,A,A,B+,A-,A,A-,A,A,Civil,A,A,Excellent
+Male,Medium,Rural,together,High School,High School,home,other,0,Yes,Yes,Fair,Tigray,C,E,C,C,B,D,C,B,B,C+,C+,A-,B+,B-,C+,A,B+,A,B+,CSE,B,B,Very good
+Male,Medium,Urban,together,High School,High School,home,other,0,Yes,Yes,Good,Addis Ababa,E,E,C,B,B,B,C,B-,A,B+,B-,A+,B+,A,B,A+,A,A+,A,CSE,B,A,Excellent
+Male,Medium,Urban,divorced,Elementary,Elementary,other,other,2,Yes,Yes,Excellent,SNNP,D,B,C,C,C,A,B,B+,A-,C,C+,B+,B+,C,C+,B+,A-,C,B+,ECE,B,C,Good
+Female,Medium,Urban,together,University,University,services,other,4,Yes,Yes,Excellent,SNNP,E,E,C,D,D,A,B,C+,A-,B,C-,B,B,C,B,B+,B+,B,B,CSE,C,C,Good
+Female,Medium,Urban,apart,University,University,home,other,0,Yes,Yes,Good,Amhara,C,E,C,B,D,B,D,B,B-,C,B,B,B-,C,C-,C,A-,C+,B-,ECE,C,D,Good
+Male,Medium,Urban,together,University,University,services,services,0,Yes,Yes,Good,Oromia,F,C,C,C,C,B,A,C+,B+,C,D,A-,B-,C,C-,B-,A-,A-,B,Architecture,C,C,Good
+Male,Above,Urban,together,University,University,teacher,teacher,2,Yes,Yes,Excellent,Amhara,E,E,C,A,B,B,D,B-,B+,B,C+,A-,B,C,B,A-,A,C-,B,Materials,B,C,Good
+Male,Medium,Urban,apart,University,University,services,services,4,Yes,Yes,Poor,Oromia,C,B,E,A,C,E,D,C+,B+,B,C,B,B+,B,B,B-,B-,B+,B+,Materials,C,B,Good
+Female,Medium,Urban,together,University,University,other,other,4,Yes,Yes,Excellent,Addis Ababa,B,A,C,A,A,B,A,C+,A,A-,C,B-,B-,C+,C-,C+,B+,A,A-,Architecture,C,C,Good
+Male,Medium,Rural,apart,Prep,Prep,other,other,0,Yes,Yes,Excellent,Addis Ababa,D,B,C,C,C,B,B,B,C+,C+,C+,C+,C,B,B-,B,B-,A+,B+,CSE,C,B,Good
+Male,Medium,Urban,together,Primary,University,home,services,0,Yes,Yes,Good,Oromia,C,E,B,A,B,A,C,A,A,C-,C+,B-,A-,B-,C,B+,A,A+,B,ECE,B,B,Very good
+Male,Medium,Urban,together,None,None,home,other,1,Yes,Yes,Good,SNNP,D,E,B,A,D,B,C,C+,B+,C,B-,A,B,C+,C,B-,A,C+,B+,ECE,C,C,Good
+Male,Medium,Rural,apart,Elementary,Elementary,home,other,2,Yes,Yes,Excellent,Oromia,D,F,B,A,E,A,B,C,C+,A-,C+,A-,B+,B+,A,A-,C,A-,C,Materials,C,B,Very good
+Female,Medium,Urban,together,Elementary,None,other,other,0,Yes,Yes,Excellent,Oromia,C,D,B,F,A,A,B,B-,B,C+,C,A,C+,C,C+,A,A+,A-,A-,Mechanical,C,B,Very good
+Female,Medium,Urban,apart,Prep,Prep,home,other,0,Yes,Yes,Excellent,Addis Ababa,E,E,F,C,B,B,A,B-,C+,B,D,B-,C+,C,B,B-,B-,B,B+,CSE,D,C,Good
+Male,Medium,Rural,together,Prep,Prep,home,other,0,Yes,Yes,Excellent,SNNP,A,A,A,A,B,A,A,A+,A,A-,A,A+,A,A+,A+,A,A,A,A+,ECE,A,A,Excellent
+Male,Medium,Urban,together,Primary,None,home,other,0,Yes,Yes,Excellent,Addis Ababa,C,E,B,A,C,B,C,B+,B,B,B+,A-,B+,A,B+,B,B-,C+,A-,Mechanical,B,B,Very good
+Male,Medium,Urban,together,Primary,Primary,home,other,1,Yes,Yes,Excellent,SNNP,D,C,B,A,D,A,C,B+,B,C,C,B+,A-,B,C,A-,A,C-,B,CSE,C,C,Good
+Male,Medium,Urban,together,University,University,other,other,2,Yes,Yes,Excellent,Addis Ababa,C,E,B,B,C,B,A,C+,B+,B-,C,B,B-,C,D,A,B+,A-,C+,CSE,C,C,Good
+Female,Medium,Urban,together,University,University,other,other,2,Yes,Yes,Good,Addis Ababa,E,F,D,A,C,A,C,B+,A-,C+,C,B+,B+,C,C,B+,B+,A+,C,CSE,B,C,Good
+Female,Medium,Urban,together,Prep,University,home,other,0,Yes,Yes,Good,Addis Ababa,E,E,C,C,C,B,C,C+,A-,B-,C,B+,C+,B,C-,C+,B,A-,B-,Architecture,C,C,Good
+Male,Medium,Urban,together,University,University,services,services,4,Yes,Yes,Excellent,Addis Ababa,F,E,C,B,D,A,B,B+,A-,C,C,A-,A,C-,B,A+,A,B+,A+,CSE,B,B,Very good
+Male,Medium,Urban,together,Elementary,Primary,other,other,4,Yes,Yes,Good,Amhara,B,D,B,B,D,A,A,B+,B+,B+,A+,A+,B-,A-,C+,B,B,A-,A,Civil,A,B,Very good
+Male,Medium,Urban,together,Elementary,Prep,home,other,0,Yes,Yes,Excellent,Oromia,C,E,C,A,B,A,D,B+,A-,C+,C+,A,B+,B-,C+,B,A+,A-,B+,Chemical,B,B,Very good
+Male,Medium,Urban,together,University,Elementary,home,other,0,Yes,Yes,Excellent,Oromia,D,D,D,B,B,A,C,B-,A,C+,F,B,A,C+,C+,B,A+,B-,C+,Chemical,C,C,Good
+Female,Medium,Urban,apart,Prep,Prep,other,other,1,Yes,Yes,Good,Addis Ababa,F,D,C,C,B,B,B,B+,A+,C-,F,B-,B+,C,C+,C,A,A,A-,CSE,D,C,Good
+Male,Medium,Urban,together,High School,Prep,other,other,1,Yes,Yes,Good,Dire Dawa,D,D,A,B,C,C,B,B,B+,B-,B-,A-,B+,B-,B-,C+,B,B+,B+,Civil,B,C,Very good
+Female,Medium,Urban,apart,Prep,Prep,other,other,0,Yes,Yes,Good,Addis Ababa,F,D,C,C,B,B,B,B+,A+,C-,F,B-,B+,C,C+,C,A,A,A-,CSE,D,C,Good
+Male,Above,Urban,together,None,None,home,teacher,1,Yes,Yes,Good,Addis Ababa,E,F,D,B,B,A,C,B,B+,C,C,B+,A-,C+,B,B+,B+,F,B+,CSE,C,C,Good
